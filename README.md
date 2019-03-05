@@ -1,12 +1,12 @@
 # Machine Learning
 # Prerequisites:
            It is necessary to install the following package:
-            - Nump
+            - Numpy
             - Matplotlib
             - scipy
             - Random
             - Imageico
-           Must be familiar Python3 and Jupyter Notebooks 
+           Must be familiar with Python3 and Jupyter Notebooks 
 
 This code is based on the book "Make Your Own Neural Network" by Tariq Rashid \
 For the training and test data download from the link:
