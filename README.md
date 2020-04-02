@@ -7,5 +7,5 @@
 <p align='center'>
 For the training and testing data download from the below links:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - training set: http://www.pjreddie.com/media/files/mnist_train.csv<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;- test set: http://www.pjreddie.com/media/files/mnist_test.csv
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; - test set: http://www.pjreddie.com/media/files/mnist_test.csv
 </p>
